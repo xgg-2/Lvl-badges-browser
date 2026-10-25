@@ -1,4 +1,4 @@
-# MAX UR BADGES - Automated Browser Spoofer
+# MAX UR BADGES - In Browser 
 
 A fast, lightweight, and zero-dependency browser snippet designed to simulate game activity, boost played games count, and register thousands of hours across all detectable Discord games using Discord's internal Science telemetry API.
 
